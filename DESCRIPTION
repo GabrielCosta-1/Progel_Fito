@@ -1,7 +1,7 @@
 Package: ProgelApp
 Type: Package
 Title: Progel - Inventário Florestal
-Version: 0.1.0
+Version: 0.1.1
 Author: Nome do Autor
 Maintainer: Nome do Autor <email@example.com>
 Description: Aplicativo Shiny para inventário florestal.
